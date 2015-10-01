@@ -6,10 +6,12 @@
     <parent>
         <groupId>no.cantara</groupId>
         <artifactId>dropwizard-hello-world-parent</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
+    <groupId>no.cantara</groupId>
     <artifactId>dropwizard-hello-world-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
