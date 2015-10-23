@@ -18,7 +18,7 @@ import java.util.Optional;
 @Produces(MediaType.APPLICATION_JSON)
 public interface HelloWorldResource {
 
-    public static final String PATH = "/hello-world";
+    public static final String PATH = "/";
     public static final String QUERY_PARAM_GET_HELLO_NAME = "name";
 
     @GET
